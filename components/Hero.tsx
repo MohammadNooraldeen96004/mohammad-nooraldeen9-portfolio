@@ -183,7 +183,7 @@ export default function Hero() {
                 </a>
 
                 <a
-                  href="/cv/Mohammad-Nooraldeen-CV.pdf"
+                  href="/cv/Mohammad Nooraldeen ---- CV.pdf"
                   className="
                     group
                     inline-flex
