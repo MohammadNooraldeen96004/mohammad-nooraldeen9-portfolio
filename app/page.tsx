@@ -6,12 +6,14 @@ import Expertise from "@/components/Expertise";
 import Experience from "@/components/Experience";
 import Education from "@/components/Education";
 import Footer from "@/components/Footer";
+import Feedback from "@/components/Feedback";
 
 export default function Home() {
   return (
     <main className="site-grid">
       <Navbar />
       <Hero />
+      <Feedback />
       <Expertise />
       <Experience />
       <SelectedWork />
